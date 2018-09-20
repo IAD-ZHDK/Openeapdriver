@@ -5,11 +5,11 @@ The device has both a push button activation control for EAP and an onboard sequ
 
 The Device Features:
 
-Internal Lipo Battery
-Rechargable over USB 
-Built in sequencer 
-Digital inputs for control with arduino 
-Push button control
-Indicator LEDS for battery charging 
+* Internal Lipo Battery
+* Rechargable over USB 
+* Built in sequencer 
+* Digital inputs for control with arduino 
+* Push button control
+* Indicator LEDS for battery charging 
 
 ![Board](/PCB/image.jpg?raw=true)  
