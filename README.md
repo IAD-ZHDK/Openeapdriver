@@ -9,5 +9,9 @@ The Device Features:
 * Built in sequencer 
 * Digital inputs for control with arduino 
 * Push button control
-* Indicator LEDS for battery charging 
+* Indicator LEDS for battery charging
+
+The maximum 5000 volt output of this device may result in electric shock if used incorrectly. Use at your own risk!
+
 ![Board](/PCB/image.jpg?raw=true)  
+
